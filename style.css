@@ -9,15 +9,19 @@ li {
 
 .header {
     background-color: #7edade;
-    height: 90px;
+    height: 100px;
 }
 .header-logo {
-    color: #112f66;
-    font-size: 300%;
+    height: 90px;
+    width: 25%;   
+}
+img {
+    height: 100px;
+    width: 75%;
 }
 
 .main {
-    background-color: azure;
+    background-color: #f0ffff;
     opacity: 0.1px;
     height: 600px;
 }
