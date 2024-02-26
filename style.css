@@ -11,17 +11,14 @@ li {
     background-color: #7edade;
     height: 100px;
 }
-.header-logo {
-    height: 90px;
-    width: 25%;   
-}
+
 img {
     height: 100px;
-    width: 75%;
+    width: 25%;
 }
 
 .main {
-    background-color: #f0ffff;
+    background-color: #e4eded;
     height: 600px;
 }
 
