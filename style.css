@@ -36,5 +36,10 @@ li {
 
 .footer {
     background-color: #6495ed;
-    height: 270px;
+    height: 200px;
+    text-align: center;
+}
+
+.footer p {
+    font-size: 20px;
 }
