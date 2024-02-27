@@ -8,9 +8,26 @@ li {
 }
 
 .header {
+    color: #fff;
     background-color: #7edade;
     height: 100px;
 }
+
+.header-logo {
+    float: left;
+    font-size: 50px;
+    padding: 20px 40px;
+}
+
+.header-list {
+    float: left;
+}
+
+.header-list li {
+    float: left;
+    padding: 50px 20px 10px;
+    font-size: 20px;
+} 
 
 img {
     height: 100px;
